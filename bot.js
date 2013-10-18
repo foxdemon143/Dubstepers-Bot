@@ -15,7 +15,7 @@
  * @Author 	Tawi - DJ Neon (Member. on Plug.dj)
  */
 
-
+ 
 var mubBot = {};
 var ruleSkip = {};
 mubBot.misc = {};
